@@ -1,6 +1,6 @@
 ## Hi there 👋
-[Link to pdf](https://juliuszeks.github.io/Juliuszeks/bilet_ep_2377.pdf)
-[![Obraz](./assets/images/obraz.png)](https://juliuszeks.github.io/Juliuszeks/bilet_ep_2377.pdf)
+[Link to pdf](./bilet_ep_2377.pdf)
+[![Obraz](./assets/images/obraz.png)](./bilet_ep_2377.pdf)
 <!--
 **juliuszeks/Juliuszeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
