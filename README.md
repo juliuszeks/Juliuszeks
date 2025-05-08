@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 [Link to pdf](./bilet_ep_2377.pdf)
 [![Obraz](./assets/images/obraz.png)](./bilet_ep_2377.pdf)
 <!--
