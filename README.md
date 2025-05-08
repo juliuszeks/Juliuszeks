@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+(https://juliuszeks.github.io/Juliuszeks/bilet_ep_2377.pdf)
 <!--
 **juliuszeks/Juliuszeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
