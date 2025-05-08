@@ -3,3 +3,4 @@ description: ble ble bli.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-architect
+site.url: http://juliuszeks.github.io
